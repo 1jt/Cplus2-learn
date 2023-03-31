@@ -33,5 +33,8 @@
     <ClCompile Include="06 程序流程结构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="07 数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

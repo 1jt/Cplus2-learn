@@ -133,6 +133,7 @@
     <ClCompile Include="04 数据类型.cpp" />
     <ClCompile Include="05 运算符.cpp" />
     <ClCompile Include="06 程序流程结构.cpp" />
+    <ClCompile Include="07 数组.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
