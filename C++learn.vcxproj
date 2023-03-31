@@ -134,6 +134,11 @@
     <ClCompile Include="05 运算符.cpp" />
     <ClCompile Include="06 程序流程结构.cpp" />
     <ClCompile Include="07 数组.cpp" />
+    <ClCompile Include="08 函数.cpp" />
+    <ClCompile Include="max.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="max.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

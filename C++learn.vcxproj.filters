@@ -36,5 +36,16 @@
     <ClCompile Include="07 数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08 函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="max.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="max.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
