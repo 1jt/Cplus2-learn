@@ -137,6 +137,7 @@
     <ClCompile Include="08 函数.cpp" />
     <ClCompile Include="09 指针.cpp" />
     <ClCompile Include="max.cpp" />
+    <ClCompile Include="10 结构体.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h" />

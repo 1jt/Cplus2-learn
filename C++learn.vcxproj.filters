@@ -45,6 +45,9 @@
     <ClCompile Include="09 指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10 结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
