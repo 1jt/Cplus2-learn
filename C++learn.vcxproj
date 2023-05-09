@@ -136,8 +136,10 @@
     <ClCompile Include="07 数组.cpp" />
     <ClCompile Include="08 函数.cpp" />
     <ClCompile Include="09 指针.cpp" />
+    <ClCompile Include="11cpp.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
+    <ClCompile Include="Progress bar.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h" />
