@@ -1,11 +1,39 @@
 #include <tchar.h> 
 #include<graphics.h>				     //图形库 
 #include<stdio.h>					  	 //标准输入输出
-
+#include<iostream>
+using namespace std;
 #define WIDTH 300						 //进度条宽
 #define	HEIGHT	30						 //进度条高
 
-int main0() {
+int main() {
+	int all_block_num = 1000;
+
+	//随机数种子
+	srand((unsigned int)time(NULL));
+	int random = rand();
+	// 进度条+随机数
+	for (int i = 0; i < all_block_num; i++)
+	{
+		if (i < all_block_num - 1)
+		{
+			printf("\r读取中[%.2lf%%]:", i * 100.0 / (all_block_num - 1));
+		}
+		else
+		{
+			printf("\r读取完成[%.2lf%%]:", i * 100.0 / (all_block_num - 1));
+		}
+		int show_num = i * 20 / all_block_num;
+		for (int j = 1; j <= show_num; j++)
+		{
+			std::cout << "█";
+			Sleep(1);
+		}
+		srand((unsigned int)time(NULL));
+		random = rand();
+		cout << random << "\r";
+	}
+	system("pause");
 flag:
 	HWND hwnd = initgraph(WIDTH, HEIGHT);//指定窗口句柄 进度条所在的窗口  
 	RECT rect;                			 //矩形框对象 包含标题栏在内的整个窗口
@@ -41,6 +69,7 @@ flag:
 	outtextxy(70, 7, _T("是时候去做点别的事情了！"));
 
 	if (getchar() == '\n')goto flag;		 //按回车键，重新来一遍
+
 	return 0;
 }
 
