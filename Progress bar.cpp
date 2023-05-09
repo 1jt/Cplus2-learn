@@ -6,7 +6,7 @@ using namespace std;
 #define WIDTH 300						 //进度条宽
 #define	HEIGHT	30						 //进度条高
 
-int main() {
+int mainPb() {
 	int all_block_num = 1000;
 
 	//随机数种子
