@@ -140,7 +140,7 @@
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
     <ClCompile Include="Progress bar.cpp" />
-    <ClCompile Include="通讯录.cpp" />
+    <ClCompile Include="Addressbooks.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h" />
