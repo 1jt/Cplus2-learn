@@ -57,6 +57,9 @@
     <ClCompile Include="Addressbooks.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12 引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">

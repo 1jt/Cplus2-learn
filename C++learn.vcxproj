@@ -137,6 +137,7 @@
     <ClCompile Include="08 函数.cpp" />
     <ClCompile Include="09 指针.cpp" />
     <ClCompile Include="11 程序内存模型.cpp" />
+    <ClCompile Include="12 引用.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
     <ClCompile Include="Progress bar.cpp" />
