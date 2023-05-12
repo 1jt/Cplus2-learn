@@ -63,9 +63,24 @@
     <ClCompile Include="13 函数高级.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14 类和对象-封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
