@@ -260,7 +260,7 @@ void isInCircle(Circle &c,Point &p)
 }
 
 
-int main()
+int main14()
 {
 	//实例化（通过一个类，创建一个对象）
 	CirclE c1;
