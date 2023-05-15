@@ -75,7 +75,7 @@
     <ClCompile Include="15 类和对象-对象特性1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="16 类和对象-静态对象.cpp">
+    <ClCompile Include="16 类和对象-静态成员.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
