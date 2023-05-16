@@ -143,6 +143,7 @@
     <ClCompile Include="15 类和对象-对象特性1.cpp" />
     <ClCompile Include="16 类和对象-静态成员.cpp" />
     <ClCompile Include="17 类和对象-对象特性2.cpp" />
+    <ClCompile Include="18 类和对象-友元.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
