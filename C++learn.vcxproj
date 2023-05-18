@@ -145,6 +145,7 @@
     <ClCompile Include="17 类和对象-对象特性2.cpp" />
     <ClCompile Include="18 类和对象-友元.cpp" />
     <ClCompile Include="19 类和对象-C++运算符重载.cpp" />
+    <ClCompile Include="20 类和对象-继承.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />

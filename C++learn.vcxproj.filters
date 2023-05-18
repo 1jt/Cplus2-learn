@@ -78,6 +78,18 @@
     <ClCompile Include="16 类和对象-静态成员.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="17 类和对象-对象特性2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18 类和对象-友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19 类和对象-C++运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20 类和对象-继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
