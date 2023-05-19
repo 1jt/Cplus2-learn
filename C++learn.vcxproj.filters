@@ -90,6 +90,9 @@
     <ClCompile Include="20 类和对象-继承.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="21 类和对象-多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
