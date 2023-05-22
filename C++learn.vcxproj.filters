@@ -93,6 +93,12 @@
     <ClCompile Include="21 类和对象-多态.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="22 C++文件操作-文本文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23 C++文件操作-二进制文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">

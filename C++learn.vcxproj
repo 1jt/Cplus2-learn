@@ -147,6 +147,8 @@
     <ClCompile Include="19 类和对象-C++运算符重载.cpp" />
     <ClCompile Include="20 类和对象-继承.cpp" />
     <ClCompile Include="21 类和对象-多态.cpp" />
+    <ClCompile Include="22 C++文件操作-文本文件.cpp" />
+    <ClCompile Include="23 C++文件操作-二进制文件.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
