@@ -117,7 +117,7 @@ static	void test02()
 
 
 
-int main()
+int main23()
 {
 	test02();
 	system("pause");
