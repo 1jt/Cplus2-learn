@@ -99,6 +99,9 @@
     <ClCompile Include="23 C++文件操作-二进制文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="25 模板-函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">

@@ -149,6 +149,7 @@
     <ClCompile Include="21 类和对象-多态.cpp" />
     <ClCompile Include="22 C++文件操作-文本文件.cpp" />
     <ClCompile Include="23 C++文件操作-二进制文件.cpp" />
+    <ClCompile Include="25 模板-函数模板.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
