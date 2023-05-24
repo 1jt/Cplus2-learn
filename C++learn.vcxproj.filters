@@ -108,6 +108,9 @@
     <ClCompile Include="Person267.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="27 STL初识.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
