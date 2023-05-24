@@ -150,9 +150,11 @@
     <ClCompile Include="22 C++文件操作-文本文件.cpp" />
     <ClCompile Include="23 C++文件操作-二进制文件.cpp" />
     <ClCompile Include="25 模板-函数模板.cpp" />
+    <ClCompile Include="26 模板-类模板.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
+    <ClCompile Include="Person267.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Progress bar.cpp" />
     <ClCompile Include="Addressbooks.cpp" />
@@ -160,6 +162,9 @@
   <ItemGroup>
     <ClInclude Include="Circle.h" />
     <ClInclude Include="max.h" />
+    <ClInclude Include="MyArray.hpp" />
+    <ClInclude Include="Person267.h" />
+    <ClInclude Include="Person267.hpp" />
     <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

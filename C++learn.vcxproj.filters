@@ -102,6 +102,12 @@
     <ClCompile Include="25 模板-函数模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="26 模板-类模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Person267.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
@@ -111,6 +117,15 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Person267.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Person267.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyArray.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
