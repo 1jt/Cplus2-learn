@@ -152,6 +152,7 @@
     <ClCompile Include="25 模板-函数模板.cpp" />
     <ClCompile Include="26 模板-类模板.cpp" />
     <ClCompile Include="27 STL初识.cpp" />
+    <ClCompile Include="28 string容器.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
