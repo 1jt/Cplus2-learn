@@ -31,7 +31,7 @@ using namespace std;
 
 
 
-int main30()
+int main31()
 {
 	cout << "hello C++" << endl;
 	system("pause");
