@@ -154,6 +154,7 @@
     <ClCompile Include="27 STL初识.cpp" />
     <ClCompile Include="28 string容器.cpp" />
     <ClCompile Include="29 vetor容器.cpp" />
+    <ClCompile Include="30 deque容器.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
