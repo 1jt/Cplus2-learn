@@ -31,7 +31,7 @@ using namespace std;
 //		size();	//返回栈的大小
 
 
-int main()
+int main32()
 {
 	cout << "hello C++" << endl;
 	system("pause");

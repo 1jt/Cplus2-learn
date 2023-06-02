@@ -126,6 +126,9 @@
     <ClCompile Include="32 queue容器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33 list容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
