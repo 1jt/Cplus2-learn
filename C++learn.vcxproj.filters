@@ -132,6 +132,9 @@
     <ClCompile Include="34 set容器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="35 map容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">

@@ -159,6 +159,7 @@
     <ClCompile Include="31 stack容器.cpp" />
     <ClCompile Include="33 list容器.cpp" />
     <ClCompile Include="34 set容器.cpp" />
+    <ClCompile Include="35 map容器.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
