@@ -144,6 +144,9 @@
     <ClCompile Include="38 函数对象-内建函数对象.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="39 常用算法-遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
