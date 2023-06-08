@@ -162,6 +162,7 @@
     <ClCompile Include="35 map容器.cpp" />
     <ClCompile Include="36 函数对象-基本使用.cpp" />
     <ClCompile Include="37 函数对象-谓词.cpp" />
+    <ClCompile Include="38 函数对象-内建函数对象.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
