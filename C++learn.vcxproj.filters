@@ -138,6 +138,9 @@
     <ClCompile Include="36 函数对象-基本使用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="37 函数对象-谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
