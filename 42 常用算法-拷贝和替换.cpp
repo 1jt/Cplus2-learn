@@ -110,7 +110,7 @@ static void test01()
 
 
 
-int main()
+int main42()
 {
 	test01();
 	system("pause");

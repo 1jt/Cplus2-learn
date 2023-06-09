@@ -164,6 +164,7 @@
     <ClCompile Include="37 函数对象-谓词.cpp" />
     <ClCompile Include="38 函数对象-内建函数对象.cpp" />
     <ClCompile Include="39 常用算法-遍历.cpp" />
+    <ClCompile Include="4 常用算法-算术生成算法.cpp" />
     <ClCompile Include="40 常用算法-查找.cpp" />
     <ClCompile Include="41 常用算法-排序.cpp" />
     <ClCompile Include="42 常用算法-拷贝和替换.cpp" />

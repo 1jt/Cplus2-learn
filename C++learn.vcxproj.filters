@@ -156,6 +156,9 @@
     <ClCompile Include="42 常用算法-拷贝和替换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4 常用算法-算术生成算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
