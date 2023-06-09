@@ -165,6 +165,8 @@
     <ClCompile Include="38 函数对象-内建函数对象.cpp" />
     <ClCompile Include="39 常用算法-遍历.cpp" />
     <ClCompile Include="40 常用算法-查找.cpp" />
+    <ClCompile Include="41 常用算法-排序.cpp" />
+    <ClCompile Include="42 常用算法-拷贝和替换.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="10 结构体.cpp" />
