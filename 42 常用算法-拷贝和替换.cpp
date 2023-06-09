@@ -27,6 +27,48 @@ using namespace std;
 //			dest 目标起始迭代器
 
 
+// 2.replace
+//	功能描述 :
+//		·将容器内指定范围的旧元素修改为新元素
+//	函数原型 :
+//		·replace(iterator beg, iteratorlend, oldvalue, newvalue);
+//			将区间内旧元素 替换成新元素
+//			beg 开始选代器
+//			end结束选代器
+//			oldvalue 旧元素
+//			newvalue 新元素
+
+
+// 3.replace if
+//	功能描述 :
+//		·将区间内满足条件的元素，替换成指定元素
+//	函数原型 :
+//		·replace if (iterator beg, iterator end, _pred, newvalue);
+//			按条件替换元素，满足条件的替换成指定元素
+//			beg 开始选代器
+//			end 结束选代器
+//			_pred 谓词
+//			newvalue 替换的新元素
+
+
+// 4.swap
+//	功能描述 :
+//		·互换两个容器的元素
+//	函数原型 :
+//		·swap(container c1, container x2);
+//			互换两个容器的元素
+//			c1容器1
+//			c2容器2
+
+class LessFive
+{
+public:
+	bool operator()(int val)
+	{
+		return val < 5;
+	}
+};
+
 void myPrint42(int& val)
 {
 	cout << val << " ";
@@ -34,7 +76,7 @@ void myPrint42(int& val)
 static void test01()
 {
 	cout << "-------------test01()-------------" << endl;
-	//查找内置数据类型
+	// 拷贝（一般不如直接=）
 	vector<int>v1;
 	for (size_t i = 0; i < 10; i++)
 	{
@@ -44,6 +86,26 @@ static void test01()
 	v2.resize(v1.size());
 	copy(v1.begin(), v1.end(), v2.begin());
 	for_each(v2.begin(), v2.end(), myPrint42);
+	cout << endl;
+
+	// replace
+	replace(v2.begin(), v2.end(), 6, 9);
+	replace(v2.begin(), v2.end(), 7, 9);
+	replace(v2.begin(), v2.end(), 8, 9);
+	for_each(v2.begin(), v2.end(), myPrint42);
+	cout << endl;
+
+	// replace_if
+	replace_if(v2.begin(), v2.end(), LessFive(), 8);
+	for_each(v2.begin(), v2.end(), myPrint42);
+	cout << endl;
+
+	// swap
+	swap(v1, v2);
+	for_each(v1.begin(), v1.end(), myPrint42);
+	cout << endl;
+	for_each(v2.begin(), v2.end(), myPrint42);
+	cout << endl;
 }
 
 
